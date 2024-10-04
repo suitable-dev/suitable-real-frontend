@@ -17,8 +17,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 zk-login was implemented using google's oauth and openid in test mode so only test address work 
 
 ### test address for zk-login
-email : suitabletestuser@gmail.com
-password : thetestuser&1
+email : suitabletestuser@gmail.com.
+
+password : Thetestuser&1
 
 ### ... Updates to come  
 
