@@ -13,21 +13,27 @@ password : Thetestuser&1
 ### Gas-Sponsored Transactions and ZKLogin on Our Sui Blockchain DApp
 
 
-Our development team  successfully integrated cutting-edge features that streamline user onboarding and enhance security on our decentralized application (DApp), built on the Sui Blockchain.
+- Our development team  successfully integrated cutting-edge features that streamline user onboarding and enhance security on our decentralized application (DApp), built on the Sui Blockchain.
 
 
-# Key Highlights:
+## Key Highlights:
 
-- # Gas-Sponsored Transactions: We implemented a function that mints SUI, eliminating barriers to entry for new users.
-- # ZKLogin Integration: Combining zero-knowledge proof technology with gas-sponsored transactions provides seamless and secure onboarding.
-- # Enhanced User Experience: Our DApp now offers an intuitive, hassle-free experience, making it easier for users to engage with the Sui Blockchain.
+- # Gas-Sponsored Transactions:
+-  We implemented a function that mints SUI, eliminating barriers to entry for new users.
+- # ZKLogin Integration:
+-  Combining zero-knowledge proof technology with gas-sponsored transactions provides seamless and secure onboarding.
+- # Enhanced User Experience:
+- Our DApp now offers an intuitive, hassle-free experience, making it easier for users to engage with the Sui Blockchain.
 
 
 # Benefits:
 
-- # Simplified Onboarding: No need for users to purchase or manage SUI for transaction fees.
-- # Increased Adoption: Reduced friction makes blockchain technology more accessible to a broader audience.
-- # Improved Security: ZKLogin ensures secure authentication and authorization, protecting user identities and assets.
+- # Simplified Onboarding:
+-  No need for users to purchase or manage SUI for transaction fees.
+- # Increased Adoption:
+- Reduced friction makes blockchain technology more accessible to a broader audience.
+- # Improved Security:
+- ZKLogin ensures secure authentication and authorization, protecting user identities and assets.
 
 
 ### Setting a Standard
